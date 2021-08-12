@@ -1,0 +1,32 @@
+/*ALL BUTTON MOVING*/
+
+button{
+    float:left;
+    margin:10px;
+    }
+    /*COLOSE BUTTON*/
+    
+    /*BUTTOM IMAGE SIZE CHANGING*/
+    
+    .blue-logo{
+    width:50px;
+    
+    }
+    /*CLOSE SIZE CHANGING*/
+    
+    /*ENTIRE BODY PART*/
+    body {
+      padding: 25px;
+      background-image:url(backgroud.jpg);
+      color: black;
+    
+    }
+    h1{
+    font-size: 45px;
+    color:red;
+    
+    }
+    .off-btn{
+    width:40px;
+    }
+    
